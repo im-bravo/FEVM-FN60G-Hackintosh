@@ -1,6 +1,6 @@
 # FEVM-FN60G-Hackintosh + BCM94352Z
 
-## What I updated from the original repo.
+## What I updated from the [original repo](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh).
 ### NVRAM 7C436110-AB2A-4BBB-A880-FE41995C9F82
 #### (1) Add `-amfipassbeta` to `boot-args` and add Add `AMFIPass.kext`
 
